@@ -6,4 +6,4 @@
   Кнопка e: очистить поле
   Левая кнопка мыши по полю: выставить клетку
   
-[![](https://github.com/g0007b1/python_Game_Of_Life/blob/main/GameOfLifeGif.gif)](https://github.com/g0007b1/python_Game_Of_Life/blob/main/GameOfLifeGif.gif)
+[![](https://github.com/g0007b1/python_Game_Of_Life/blob/main/GameOfLifeGIf.gif)](https://github.com/g0007b1/python_Game_Of_Life/blob/main/GameOfLifeGIf.gif)
